@@ -44,7 +44,7 @@ github是一个免费提供远端仓库的网站，全球最大的代码仓库�
 .gitignore是不提交到git上的部分。
 
 # 实践完成进度
-已注册github账号，创建远程仓库，下载git，完成本地配置。
+已注册github账号，创建远程仓s库，下载git，完成本地配置。
 
 用deepseekharness 完成身份验证，ssh，密钥指纹。
 
